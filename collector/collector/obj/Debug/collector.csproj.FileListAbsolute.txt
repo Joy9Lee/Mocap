@@ -1,0 +1,15 @@
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\bin\Debug\collector.exe.config
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.csproj.ResolveComReference.cache
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\bin\Debug\collector.exe
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\bin\Debug\collector.pdb
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.csprojResolveAssemblyReference.cache
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.Main_Form.resources
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.Profiles_Form.resources
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.Properties.Resources.resources
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.csproj.GenerateResource.Cache
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.exe
+I:\SciFIT\VSPC\Rehabilitation\collector\collector\obj\Debug\collector.pdb

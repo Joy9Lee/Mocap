@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2860126197</fileChecksum>
+  <configuration>
+    <name>NON_OS</name>
+    <outputs>
+      <file>$PROJ_DIR$\NON_OS\Obj\netcfg.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\source\flowcont.h</file>
+      <file>$PROJ_DIR$\..\include\netcfg.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\netcfg.o</file>
+      <file>$PROJ_DIR$\..\include\fs.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_ints.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\prcm.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_types.h</file>
+      <file>$PROJ_DIR$\..\user.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\driver.o</file>
+      <file>$PROJ_DIR$\..\..\driverlib\pin.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_udma.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\udma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\include\trace.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\nonos.o</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\wlan.o</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\fs.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\cc_pal.pbi</file>
+      <file>$PROJ_DIR$\..\include\wlan_rx_filters.h</file>
+      <file>$PROJ_DIR$\..\source\protocol.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\cc_pal.o</file>
+      <file>$PROJ_DIR$\..\include\simplelink.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\flowcont.o</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\..\cc_pal.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\netapp.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_patch.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\flowcont.pbi</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\netapp.o</file>
+      <file>$PROJ_DIR$\..\source\objInclusion.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_common_reg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\include\netapp.h</file>
+      <file>$PROJ_DIR$\..\source\driver.c</file>
+      <file>$PROJ_DIR$\..\cc_pal.c</file>
+      <file>$PROJ_DIR$\..\source\flowcont.c</file>
+      <file>$PROJ_DIR$\..\source\fs.c</file>
+      <file>$PROJ_DIR$\..\source\netapp.c</file>
+      <file>$PROJ_DIR$\..\source\socket.c</file>
+      <file>$PROJ_DIR$\..\source\spawn.c</file>
+      <file>$PROJ_DIR$\..\source\device.c</file>
+      <file>$PROJ_DIR$\..\source\netcfg.c</file>
+      <file>$PROJ_DIR$\..\source\nonos.c</file>
+      <file>$PROJ_DIR$\..\source\wlan.c</file>
+      <file>$PROJ_DIR$\..\source\driver.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\wlan.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\source\nonos.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\fs.o</file>
+      <file>$PROJ_DIR$\..\include\device.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\device.o</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_map.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\spawn.o</file>
+      <file>$PROJ_DIR$\NON_OS\Exe\simplelink.a</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\driver.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\device.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\utils.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\spawn.pbi</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\socket.o</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\socket.pbi</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_mcspi.h</file>
+      <file>$PROJ_DIR$\NON_OS\Obj\nonos.pbi</file>
+      <file>$PROJ_DIR$\..\include\socket.h</file>
+      <file>$PROJ_DIR$\..\include\wlan.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_memmap.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\driver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 54 16 28 19 1 73 39 64 2 72 3 55 15 38 18 26 52 36 5 40 57 25 9 31 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\cc_pal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 54 28 25 17 30 36 12 8 7 23 40 31 33 11 5 57 9 6 13 74 70 37 59 63 14 19 72 73 3 55 15 16 38 39 64 1 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 6 13 8 11 74 70 37 30 59 33 63 7 23 14 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\flowcont.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 54 73 64 19 16 1 17 28 52 72 3 55 15 38 18 26 2 36 5 40 57 25 9 31 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\fs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 25 17 36 12 28 40 31 52 5 57 9 26 19 72 73 3 55 15 16 38 39 64 1 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\netapp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 12 52 25 17 54 40 31 28 5 57 9 26 19 72 73 3 55 15 16 38 39 64 1 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\socket.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 40 36 25 17 12 54 52 5 57 9 28 26 19 72 73 3 55 15 16 38 39 64 1 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\spawn.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 73 9 64 72 3 31 17 1 36 5 40 57 25 55 15 54 16 38 12 18 28 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\device.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 54 16 28 19 1 73 39 64 2 72 3 55 15 38 18 26 52 36 5 40 57 25 9 31 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 2 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\netcfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73 64 54 39 19 16 1 17 28 52 72 3 55 15 38 18 26 36 5 40 57 25 9 31 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\nonos.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 55 3 54 18 72 15 38 52 19 73 16 39 64 1 17 26 36 5 40 57 25 9 31 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\wlan.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 36 25 17 54 52 40 31 5 57 9 28 26 19 72 73 3 55 15 16 38 39 64 1 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 9 15 54 17 39 1 18 12 64 16 38 31 36 19 5 72 40 73 57 3 25 55 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>NON_OS_PM</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>OS</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\oslib\osi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\source\flowcont.h</file>
+      <file>$PROJ_DIR$\..\include\netcfg.h</file>
+      <file>$PROJ_DIR$\..\include\fs.h</file>
+      <file>$PROJ_DIR$\OS\Obj\nonos.o</file>
+      <file>$PROJ_DIR$\OS\Obj\flowcont.o</file>
+      <file>$PROJ_DIR$\OS\Obj\netapp.o</file>
+      <file>$PROJ_DIR$\OS\Exe\simplelink.a</file>
+      <file>$PROJ_DIR$\OS\Obj\driver.o</file>
+      <file>$PROJ_DIR$\OS\Obj\fs.o</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_ints.h</file>
+      <file>$PROJ_DIR$\OS\Obj\spawn.o</file>
+      <file>$PROJ_DIR$\..\source\spawn.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\prcm.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_types.h</file>
+      <file>$PROJ_DIR$\OS\Obj\socket.o</file>
+      <file>$PROJ_DIR$\OS\Obj\wlan.o</file>
+      <file>$PROJ_DIR$\..\user.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\pin.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\OS\Obj\netcfg.o</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_udma.h</file>
+      <file>$PROJ_DIR$\OS\Obj\cc_pal.o</file>
+      <file>$PROJ_DIR$\OS\Obj\device.o</file>
+      <file>$PROJ_DIR$\..\..\driverlib\udma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\include\trace.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\..\include\wlan_rx_filters.h</file>
+      <file>$PROJ_DIR$\..\source\protocol.h</file>
+      <file>$PROJ_DIR$\..\include\simplelink.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\..\cc_pal.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_patch.h</file>
+      <file>$PROJ_DIR$\..\source\objInclusion.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_common_reg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\include\netapp.h</file>
+      <file>$PROJ_DIR$\..\source\driver.c</file>
+      <file>$PROJ_DIR$\..\cc_pal.c</file>
+      <file>$PROJ_DIR$\..\source\flowcont.c</file>
+      <file>$PROJ_DIR$\..\source\fs.c</file>
+      <file>$PROJ_DIR$\..\source\netapp.c</file>
+      <file>$PROJ_DIR$\..\source\socket.c</file>
+      <file>$PROJ_DIR$\..\source\spawn.c</file>
+      <file>$PROJ_DIR$\..\source\device.c</file>
+      <file>$PROJ_DIR$\..\source\netcfg.c</file>
+      <file>$PROJ_DIR$\..\source\nonos.c</file>
+      <file>$PROJ_DIR$\..\source\wlan.c</file>
+      <file>$PROJ_DIR$\..\source\driver.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\include\device.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_map.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\utils.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_mcspi.h</file>
+      <file>$PROJ_DIR$\..\include\socket.h</file>
+      <file>$PROJ_DIR$\..\include\wlan.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_memmap.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\cc_pal.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 11 22 15 19 64 61 39 35 57 37 58 14 31 25 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\flowcont.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\fs.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\netapp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\socket.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\spawn.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\device.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 2 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\netcfg.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\nonos.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\wlan.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 18 26 55 28 41 1 29 20 59 27 40 36 0 38 30 4 62 42 63 56 3 32 13 33 54</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>PM_Framework</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

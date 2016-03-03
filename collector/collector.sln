@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collector", "collector\collector.csproj", "{0149E865-D94B-4F4F-A882-C4AB65415C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFQA", "TestFQA\TestFQA.csproj", "{36FC2546-4AF3-4348-A1F6-EEAB4EC0DDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0149E865-D94B-4F4F-A882-C4AB65415C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0149E865-D94B-4F4F-A882-C4AB65415C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0149E865-D94B-4F4F-A882-C4AB65415C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0149E865-D94B-4F4F-A882-C4AB65415C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FC2546-4AF3-4348-A1F6-EEAB4EC0DDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FC2546-4AF3-4348-A1F6-EEAB4EC0DDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FC2546-4AF3-4348-A1F6-EEAB4EC0DDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FC2546-4AF3-4348-A1F6-EEAB4EC0DDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\TestFQA.exe.config
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\TestFQA.exe
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\TestFQA.pdb
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\collector.exe
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\bin\Debug\collector.pdb
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\obj\Debug\TestFQA.csprojResolveAssemblyReference.cache
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\obj\Debug\TestFQA.exe
+I:\SciFIT\VSPC\Rehabilitation\collector\TestFQA\obj\Debug\TestFQA.pdb

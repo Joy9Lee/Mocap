@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>176603185</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\CC3200-SDK\oslib\ewarm\free_rtos\Exe\free_rtos.a</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\socket.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_led.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_os.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\app.pbd</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\rom_map.h</file>
+      <file>$PROJ_DIR$\mc_protocol.h</file>
+      <file>$PROJ_DIR$\mc_hal_mpu9250.h</file>
+      <file>$PROJ_DIR$\mc_hal_led.h</file>
+      <file>$PROJ_DIR$\cc_utils.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\netapp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\free_rtos_hook.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\utils.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_types.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\fs.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_profiles.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\app.bin</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\user.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\oslib\osi.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\debug.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_protocol.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_common_reg.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\cc_hal_gpio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_ads129x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_mpu9250.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_led.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\cc_hal_wifi.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_apps_rcm.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_sw.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_profiles.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\cc_pal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_os.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_process.o</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\trace.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\free_rtos_hook.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_pwm.o</file>
+      <file>$PROJ_DIR$\free_rtos_hook.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\source\spawn.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\ewarm\Release\Exe\driverlib.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_wifi.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\spi.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\prcm.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_os.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_timer.o</file>
+      <file>$PROJ_DIR$\cc_hal_pm.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_os.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\gpio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.o</file>
+      <file>$PROJ_DIR$\mc_os.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_pwm.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\source\objInclusion.h</file>
+      <file>$PROJ_DIR$\mc_hal_sw.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\wlan.h</file>
+      <file>$PROJ_DIR$\cc_hal_pwm.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_pinmux.pbi</file>
+      <file>$PROJ_DIR$\cc_hal_timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_ads129x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\wlan_rx_filters.h</file>
+      <file>$PROJ_DIR$\mc_hal_ads129x.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\rom_patch.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\simplelink.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_pm.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_mpu9250.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_process.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\mc_process.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_gpio.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\netcfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_pm.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_pinmux.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_gpio.o</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\pin.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\cc_os.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_utils.o</file>
+      <file>$PROJ_DIR$\mc_process.c</file>
+      <file>$PROJ_DIR$\mc_os.c</file>
+      <file>$PROJ_DIR$\mc_profiles.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_spi.o</file>
+      <file>$PROJ_DIR$\mc_profiles.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\cc3200.icf</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_ints.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\mc_protocol.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_hal_sw.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\mc_protocol.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\include\device.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_utils.pbi</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\simplelink\ewarm\OS\Exe\simplelink.a</file>
+      <file>$PROJ_DIR$\Debug\Exe\app.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_wifi.o</file>
+      <file>$PROJ_DIR$\cc_hal_spi.h</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\startup_ewarm.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cc_hal_timer.pbi</file>
+      <file>$PROJ_DIR$\cc_os.c</file>
+      <file>$PROJ_DIR$\..\CC3200-SDK\inc\hw_gpio.h</file>
+      <file>$PROJ_DIR$\cc_pinmux.h</file>
+      <file>$PROJ_DIR$\mc_hal_ads129x.c</file>
+      <file>$PROJ_DIR$\cc_hal_gpio.c</file>
+      <file>$PROJ_DIR$\cc_hal_spi.c</file>
+      <file>$PROJ_DIR$\cc_hal_timer.c</file>
+      <file>$PROJ_DIR$\cc_pinmux.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\cc_utils.c</file>
+      <file>$PROJ_DIR$\mc_hal_led.c</file>
+      <file>$PROJ_DIR$\mc_hal_mpu9250.c</file>
+      <file>$PROJ_DIR$\mc_hal_sw.c</file>
+      <file>$PROJ_DIR$\cc_hal_pm.c</file>
+      <file>$PROJ_DIR$\cc_hal_pwm.c</file>
+      <file>$PROJ_DIR$\cc_hal_wifi.c</file>
+      <file>$PROJ_DIR$\free_rtos_hook.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_process.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 20 62 76 22 42 9 3 41 104 115 26 82 58</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 9 76 42 75 3 104 115 22 41 62 26 58 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_os.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 26 12 20 22 75 9 82 58 90 62 3 41 104 115 76 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62 26 58 42 75 3 104 115 22 41 20 9 76 12 36 90 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_profiles.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 75 36 14 90 26 17 20 104 3 41 64 72 71 77 76 115 19 107 58 12 22 46 1 66 84 25 50 43 98</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 76 42 75 3 104 115 22 41 12 36 20 90 77 25 71 17 43 26 58 64 46 19 1 14 66 107 84 72 50</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_protocol.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 12 37 10 22 42 36 90 98 57 76 3 41 104 115 20 9</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 76 42 75 3 104 115 22 41 98 37 57 12 36 20 90 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\app.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 99 88 78 48 97 56 111 87 93 47 29 70 35 79 103 55 45 40 28 61 51 0 109 13 105 92 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100 18 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 100 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_os.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91 26 58 42 75 3 104 115 22 41 20 9 76 126 12 36 90 16 18 113 23 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_ads129x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 104 60 75 76 8 73 18 74 42 41 113 53 54 16 32 36 20 22 115 90 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 113 53 60 54 8 74 16 12 36 42 75 3 104 115 22 41 20 90 32 76 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90 42 60 18 113 75 31 101 58 22 32 100 38 89 54 8 26 20 3 41 104 115 76 74 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36 42 75 3 104 115 22 41 20 90 32 76 18 100 113 38 31 89 60 54 101 8 74 58 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 74 8 42 53 12 113 54 16 112 90 3 76 18 36 20 22 41 104 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 113 53 54 8 74 16 12 36 42 75 3 104 115 22 41 20 90 112 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 42 101 22 104 27 3 41 113 54 26 23 115 69 100 31 8 58 18 74 20</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 18 23 113 100 27 31 101 8 74 54 58 42 75 3 104 115 22 41 20 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 89 113 8 18 118 101 54 119 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 119 18 113 118 89 101 8 74 54 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 115 8 42 38 26 75 58 100 31 54 32 65 20 3 41 104 18 113 30 101 16 119 11 37 12 90 22 76 36 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36 42 75 3 104 115 22 41 20 90 18 100 113 38 30 31 101 8 74 16 54 58 26 119 32 76 11 57 37 65 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_utils.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115 23 42 18 16 113 54 20 3 41 104 75 12 36 90 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12 36 42 75 3 104 115 22 41 20 90 16 18 113 23 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_led.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 67 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 67 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_mpu9250.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 54 18 12 74 42 115 76 53 16 112 98 20 3 41 104 113 60 8 119 32 69 10 36 75 90 22 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 113 53 60 54 8 74 16 119 12 36 42 75 3 104 115 22 41 20 90 32 76 112 69 23 9 10 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_sw.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 42 75 20 12 3 41 18 119 54 115 32 69 60 76 22 23 65 36 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65 32 76 42 75 3 104 115 22 41 119 69 18 23 12 36 20 90 60 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_pm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 8 18 54 74 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 18 8 74 54 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_pwm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 74 113 18 8 54 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67 18 113 8 74 23 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_wifi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 54 26 42 1 100 115 36 20 84 71 17 58 75 12 8 76 3 41 104 46 66 22 37 11 9 18 101 31 90 64 19 14 107 72 25 50 43 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 76 42 75 3 104 115 22 41 11 12 36 20 90 9 77 25 71 17 43 26 58 64 46 19 1 14 66 107 84 72 50 18 100 101 8 74 31 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\free_rtos_hook.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\mc_hal_led.h</file>
+      <file>$PROJ_DIR$\cc_utils.h</file>
+      <file>$PROJ_DIR$\Release\Obj\free_rtos_hook.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_hal_pm.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\mc_hal_sw.o</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_ewarm.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_hal_wifi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\mc_hal_led.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_hal_pwm.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_utils.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_hal_timer.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\mc_hal_led.o</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_hal_gpio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cc_pinmux.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\mc_hal_sw.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\cc_hal_gpio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\cc_hal_wifi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\free_rtos_hook.h</file>
+      <file>$PROJ_DIR$\cc_hal_pm.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\mc_hal_sw.h</file>
+      <file>$PROJ_DIR$\cc_hal_pwm.h</file>
+      <file>$PROJ_DIR$\cc_hal_timer.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Release\Exe\app.out</file>
+      <file>$PROJ_DIR$\Release\Obj\free_rtos_hook.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\startup_ewarm.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\cc_pinmux.h</file>
+      <file>$PROJ_DIR$\cc_hal_gpio.c</file>
+      <file>$PROJ_DIR$\cc_hal_timer.c</file>
+      <file>$PROJ_DIR$\cc_pinmux.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\cc_utils.c</file>
+      <file>$PROJ_DIR$\mc_hal_led.c</file>
+      <file>$PROJ_DIR$\mc_hal_sw.c</file>
+      <file>$PROJ_DIR$\cc_hal_pm.c</file>
+      <file>$PROJ_DIR$\cc_hal_pwm.c</file>
+      <file>$PROJ_DIR$\cc_hal_wifi.c</file>
+      <file>$PROJ_DIR$\free_rtos_hook.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 23 36 19 30 33 0 22 34 20 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 23 30 0 34 36 18 22 17 33 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 30 1 33 20 2 37 21 18 26 19 25 27 17 0 22 34 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 23 30 0 34 36 18 22 17 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_utils.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_led.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 28 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 28 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\mc_hal_sw.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 37 19 29 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27 19 37 29 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_pm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_pwm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_hal_wifi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 33 21 20 30 36 1 23 17 0 22 34 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 1 2 20 23 30 0 34 36 18 22 17 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\free_rtos_hook.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

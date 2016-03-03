@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1751</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1313</ColumnWidth1><ColumnWidth2>350</ColumnWidth2><ColumnWidth3>87</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>175</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register><WATCH_1><expressions><item>sw</item><item>*PortNum</item><item>TCP_PORT_NUM</item><item>sPacketHeader.version</item><item>m_sUdpAddr</item><item>m_SendBuf</item><item>sizeof(Motion_Package_Struct)</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>155</item><item>150</item><item>100</item><item>100</item></col-widths></WATCH_1><Locals><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>208</item><item>91</item><item>100</item><item>136</item></col-widths></Locals><Find-in-Files><ColumnWidth0>536</ColumnWidth0><ColumnWidth1>89</ColumnWidth1><ColumnWidth2>804</ColumnWidth2><ColumnWidth3>357</ColumnWidth3></Find-in-Files><TerminalIO><InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO><Tool-Output/><CallStack><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>3500</item><item>20</item></col-widths></CallStack></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3135-27677</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-2612-27687</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-11770-17022</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-3994-5277</Identity><TabName>Tool Output</TabName><Factory>Tool-Output</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13883-27680</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/app</ExpandedNode><ExpandedNode>&lt;ws&gt;/deepsleep_nw</ExpandedNode><ExpandedNode>&lt;ws&gt;/oslib</ExpandedNode><ExpandedNode>app</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd5><Tabs><Tab><Identity>TabID-30074-28587</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd7><Tabs><Tab><Identity>TabID-19908-4775</Identity><TabName>Terminal I/O</TabName><Factory>TerminalIO</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7><Wnd10><Tabs><Tab><Identity>TabID-12404-27894</Identity><TabName>Locals</TabName><Factory>Locals</Factory></Tab><Tab><Identity>TabID-13449-27875</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd10><Wnd11><Tabs><Tab><Identity>TabID-28796-15637</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd11></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\cc_hal_wifi.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>909</YPos2><SelStart2>31523</SelStart2><SelEnd2>31523</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_process.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>24</YPos2><SelStart2>2282</SelStart2><SelEnd2>2282</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_protocol.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>41</YPos2><SelStart2>1751</SelStart2><SelEnd2>1751</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_hal_mpu9250.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>325</YPos2><SelStart2>9963</SelStart2><SelEnd2>9963</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_protocol.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>714</SelStart2><SelEnd2>717</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\cc_hal_wifi.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>80</YPos2><SelStart2>5201</SelStart2><SelEnd2>5201</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CC3200-SDK\oslib\osi.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>429</YPos2><SelStart2>15564</SelStart2><SelEnd2>15564</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>242</YPos2><SelStart2>6911</SelStart2><SelEnd2>6911</SelEnd2></Tab><ActiveTab>7</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CC3200-SDK\simplelink\source\driver.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>640</YPos2><SelStart2>22200</SelStart2><SelEnd2>22200</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\free_rtos_hook.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1</YPos2><SelStart2>1059</SelStart2><SelEnd2>1059</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_hal_mpu9250.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1</YPos2><SelStart2>553</SelStart2><SelEnd2>553</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\mc_profiles.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>170</YPos2><SelStart2>715</SelStart2><SelEnd2>715</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-03E2AB08><key>iaridepm.enu1</key></Toolbar-03E2AB08></Sizes></Row0><Row1><Sizes><Toolbar-15DD8530><key>debuggergui.enu1</key></Toolbar-15DD8530></Sizes></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>717</Bottom><Right>266</Right><x>-2</x><y>-2</y><xscreen>22</xscreen><yscreen>12</yscreen><sizeHorzCX>11458</sizeHorzCX><sizeHorzCY>12036</sizeHorzCY><sizeVertCX>139583</sizeVertCX><sizeVertCY>721163</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd11><Rect><Top>-2</Top><Left>264</Left><Bottom>717</Bottom><Right>487</Right><x>264</x><y>-2</y><xscreen>108</xscreen><yscreen>81</yscreen><sizeHorzCX>56250</sizeHorzCX><sizeHorzCY>81244</sizeHorzCY><sizeVertCX>116146</sizeVertCX><sizeVertCY>721163</sizeVertCY></Rect></Wnd11></Sizes></Row1></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>717</Bottom><Right>125</Right><x>-2</x><y>-2</y><xscreen>29</xscreen><yscreen>17</yscreen><sizeHorzCX>15104</sizeHorzCX><sizeHorzCY>17051</sizeHorzCY><sizeVertCX>66146</sizeVertCX><sizeVertCY>721163</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>211</Bottom><Right>613</Right><x>-2</x><y>-2</y><xscreen>615</xscreen><yscreen>213</yscreen><sizeHorzCX>320313</sizeHorzCX><sizeHorzCY>213641</sizeHorzCY><sizeVertCX>11458</sizeVertCX><sizeVertCY>12036</sizeVertCY></Rect></Wnd1><Wnd7><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>0</Right><x>611</x><y>-2</y><xscreen>696</xscreen><yscreen>213</yscreen><sizeHorzCX>362500</sizeHorzCX><sizeHorzCY>213641</sizeHorzCY><sizeVertCX>37500</sizeVertCX><sizeVertCY>200602</sizeVertCY></Rect></Wnd7><Wnd10><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>0</Right><x>1305</x><y>-2</y><xscreen>617</xscreen><yscreen>213</yscreen><sizeHorzCX>321354</sizeHorzCX><sizeHorzCY>213641</sizeHorzCY><sizeVertCX>37500</sizeVertCX><sizeVertCY>51153</sizeVertCY></Rect></Wnd10></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

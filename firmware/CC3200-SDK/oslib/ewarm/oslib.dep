@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3004232939</fileChecksum>
+  <configuration>
+    <name>free_rtos</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\osi.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\list.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\queue.o</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\semphr.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\portable.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\queue.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_map.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\osi_freertos.o</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\heap_3.o</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\tasks.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\list.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\list.o</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_types.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\tasks.c</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\IAR\ARM_CM4\port.c</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\IAR\ARM_CM4\portmacro.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\IAR\ARM_CM4\portasm.s</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\queue.c</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\heap_3.pbi</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\timers.c</file>
+      <file>$PROJ_DIR$\free_rtos\Exe\oslib.a</file>
+      <file>$PROJ_DIR$\..\osi_freertos.c</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\StackMacros.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\timers.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\projdefs.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\task.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\portasm.o</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\FreeRTOSConfig.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\queue.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\croutine.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\timers.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\croutine.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\port.pbi</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\croutine.pbi</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\timers.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\tasks.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_patch.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\mpu_wrappers.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\include\FreeRTOS.h</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\osi_freertos.pbi</file>
+      <file>$PROJ_DIR$\free_rtos\Obj\port.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\list.c</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\MemMang\heap_3.c</file>
+      <file>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\croutine.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\tasks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 48 41 31 2 26 51 52 36 34 13 55 45 32 29 5 19 50 28 39 30 54 58 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 51 11 32 36 2 41 52 48 13 28 55 39 30 29 34 5 19 58 54 31 12 45 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\IAR\ARM_CM4\port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 31 39 2 11 54 58 30 51 32 52 36 55 29 34 5 41 19 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 51 55 39 11 32 36 2 41 52 48 30 29 34 5 19 54 31 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\IAR\ARM_CM4\portasm.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\queue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 31 48 41 11 51 52 36 34 13 55 35 32 29 5 19 50 28 39 30 54 58 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 51 11 32 36 2 41 52 48 13 28 55 39 30 29 34 5 19 58 54 31 12 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\timers.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 11 32 35 41 29 5 48 54 55 34 31 52 36 2 39 30 58 12 50 45 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 51 11 32 36 2 41 52 48 55 39 30 29 34 5 19 58 54 31 12 35 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\osi_freertos.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32 41 53 48 51 13 52 16 31 0 36 11 39 19 50 55 4 37 7 15 49 2 30 58 47 28 29 34 5 54 12 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 51 11 32 36 2 41 52 48 49 50 13 28 55 39 30 29 34 5 19 58 54 31 12 4 35 0 37 7 47 15 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\list.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 30 51 58 5 55 11 41 32 34 50 12 52 36 2 39 29 19 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 51 11 32 36 2 41 52 48 55 39 30 29 34 5 19 58 54 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\portable\MemMang\heap_3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 36 11 51 32 52 30 58 55 2 39 48 19 31 29 34 5 54 50 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 51 11 32 36 2 41 52 48 55 39 30 29 34 5 19 58 54 31 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\third_party\FreeRTOS\source\croutine.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 58 34 32 29 5 11 54 31 39 30 48 41 52 36 2 19 55 42 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 39 51 11 32 36 2 41 52 48 30 29 34 5 19 58 54 31 12 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>ti_rtos</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
